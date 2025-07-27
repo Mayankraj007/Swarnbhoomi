@@ -4,7 +4,9 @@ Swarnbhoomi is an AI-powered agriculture platform that empowers India’s small 
 
 _Submission for Google Solution Challenge 2025_
 
-_Backend repository: [Swarnbhoomi Backend](https://github.com/santtun1/swarnbhoomi-backend.git)_
+Deployed link: [Swarnbhoomi](http://swarnabhoomi-g11vnbkyz-santtun1s-projects.vercel.app)
+
+Backend repository: https://github.com/Mayankraj007/Swarnbhoomi_backend
 
 ---
 
@@ -106,8 +108,7 @@ Built using React Native and Expo for cross-platform support.
    - Expo CLI (`npm install -g expo-cli`)
 2. **Clone the mobile app repo:**  
     ```sh
-    git clone https://github.com/santtun1/swarnbhoomi-mobile.git
-    cd swarnbhoomi-mobile
+    git clone https://github.com/Mayankraj007/Swarnbhoomi.git
     ```
 3. **Install dependencies:**  
     ```sh
