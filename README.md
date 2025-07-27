@@ -4,6 +4,8 @@ Swarnbhoomi is an AI-powered agriculture platform that empowers India’s small 
 
 _Submission for Google Solution Challenge 2025_
 
+Deployed link: [Swarnbhoomi Video](https://drive.google.com/file/d/1xEQQMm6Hk3jMMjY8LbiC7yAALiHmBSuG/view?usp=sharing)
+
 Deployed link: [Swarnbhoomi](http://swarnabhoomi-g11vnbkyz-santtun1s-projects.vercel.app)
 
 Backend repository: https://github.com/Mayankraj007/Swarnbhoomi_backend
